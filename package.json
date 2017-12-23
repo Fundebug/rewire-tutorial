@@ -1,0 +1,14 @@
+{
+  "name": "rewire-tutorial",
+  "version": "1.0.0",
+  "description": "NPM测试模块之rewire",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "kiwenlau",
+  "license": "ISC",
+  "devDependencies": {
+    "rewire": "^3.0.2"
+  }
+}
